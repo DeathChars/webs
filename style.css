@@ -56,8 +56,9 @@ ul {
 .container {
   max-width: 1209px;
 }
+
 .logo:hover{
-  opacity: 0.7;
+   opacity: 0.6;
 }
 
 .main-button {
