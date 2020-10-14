@@ -56,6 +56,10 @@ ul {
 .container {
   max-width: 1209px;
 }
+.logo:hover{
+  opacity: 0.7;
+}
+
 .main-button {
   background-color: #ffbb42 !important;
   text-transform: uppercase;
