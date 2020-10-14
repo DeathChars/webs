@@ -222,6 +222,12 @@ ul {
   padding: 12px 33px;
   border: solid #e7ad48 1px;
 }
+.main-block .about-us .block .text-block .main-button:hover{
+  opacity: 1;
+  background-color: #ffffff;
+  color: #1ca8dd;
+}
+
 .main-block .Prices {
   padding-top: 136px;
   padding-bottom: 165px;
