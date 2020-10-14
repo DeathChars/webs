@@ -464,6 +464,11 @@ ul {
   font-size: 14px;
   color: #ffffff;
 }
+
+.main-block .Sletter form .main-button:hover{
+  background-color: #709dca;
+}
+
 .main-block .Sletter .map {
   background-image: url(images/map.png);
   background-repeat: no-repeat;
