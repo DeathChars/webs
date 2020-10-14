@@ -95,9 +95,11 @@ ul {
   margin-right: -12px;
   padding: 7px 20px;
 }
+
 .start .head-menu ul li:first-child a:hover {
   background-color: #709dca;
 }
+
 .start .head-banner .carousel-indicators {
   bottom: 36px;
 }
