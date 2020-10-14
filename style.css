@@ -96,7 +96,7 @@ ul {
   padding: 7px 20px;
 }
 
-.start .head-menu ul li:first-child a:hover {
+.start .head-menu ul li .main-button:first-child a:hover {
   background-color: #709dca;
 }
 
